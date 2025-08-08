@@ -1,9 +1,4 @@
-# factzone-api
----
 
-### ✅ COMPLETE `README.md` CONTENT FOR YOUR DOCKERIZED FLASK FACT API
-
-```markdown
 # 🧠 FactZone - Dockerized Flask REST API
 
 **FactZone** is a lightweight, Dockerized Flask API that serves random programming facts through a clean RESTful interface. Designed for simplicity, quick deployment, and beginner-level contribution, it’s a great starting point for containerized backend development.
@@ -140,21 +135,3 @@ Made with ❤️ by [Abhinav Martha](https://github.com/abhinavmarth)
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-## ✅ Want Add-Ons?
-
-Let me know if you want:
-- A `.dockerignore` file  
-- A `requirements.txt` example  
-- CI/CD with GitHub Actions  
-- Deployment instructions (Render, Railway, AWS EC2)  
-
-I'm happy to help you scale this into a real portfolio project!
-```
